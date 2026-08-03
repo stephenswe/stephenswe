@@ -29,31 +29,55 @@ I'm a software engineer currently learning and building things as a **full stack
 
 ## Tech stack
 
-<div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,java,spring,sql&theme=dark" alt="tech stack icons"/>
-
-</div>
-
-| Layer | Tools |
-|---|---|
-| Frontend | HTML, CSS, Tailwind CSS, JavaScript, React |
-| Backend | Node.js, Java, Spring Boot |
-| Data | SQL |
-
-## Tools & environment
+## Tech stack & tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,linux,git,github&theme=dark" alt="tools icons"/>
+<table>
+<tr>
+<th colspan="5"><img src="https://img.shields.io/badge/FRONTEND-DC2626?style=flat-square"/></th>
+</tr>
+<tr>
+<td align="center" width="90"><img width="42" height="42" src="https://skillicons.dev/icons?i=html" alt="HTML"/><br/><sub><b>HTML</b></sub></td>
+<td align="center" width="90"><img width="42" height="42" src="https://skillicons.dev/icons?i=css" alt="CSS"/><br/><sub><b>CSS</b></sub></td>
+<td align="center" width="90"><img width="42" height="42" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS"/><br/><sub><b>Tailwind</b></sub></td>
+<td align="center" width="90"><img width="42" height="42" src="https://skillicons.dev/icons?i=js" alt="JavaScript"/><br/><sub><b>JavaScript</b></sub></td>
+<td align="center" width="90"><img width="42" height="42" src="https://skillicons.dev/icons?i=react" alt="React"/><br/><sub><b>React</b></sub></td>
+</tr>
+<tr>
+<th colspan="5"><img src="https://img.shields.io/badge/BACKEND-DC2626?style=flat-square"/></th>
+</tr>
+<tr>
+<td align="center" width="90"><img width="42" height="42" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/><br/><sub><b>Node.js</b></sub></td>
+<td align="center" width="90"><img width="42" height="42" src="https://skillicons.dev/icons?i=java" alt="Java"/><br/><sub><b>Java</b></sub></td>
+<td align="center" width="90"><img width="42" height="42" src="https://skillicons.dev/icons?i=spring" alt="Spring Boot"/><br/><sub><b>Spring Boot</b></sub></td>
+<td width="90"></td>
+<td width="90"></td>
+</tr>
+<tr>
+<th colspan="5"><img src="https://img.shields.io/badge/DATA-DC2626?style=flat-square"/></th>
+</tr>
+<tr>
+<td align="center" width="90"><img width="42" height="42" src="https://skillicons.dev/icons?i=mysql" alt="SQL"/><br/><sub><b>SQL</b></sub></td>
+<td width="90"></td>
+<td width="90"></td>
+<td width="90"></td>
+<td width="90"></td>
+</tr>
+<tr>
+<th colspan="5"><img src="https://img.shields.io/badge/TOOLS%20%26%20ENVIRONMENT-DC2626?style=flat-square"/></th>
+</tr>
+<tr>
+<td align="center" width="90"><img width="42" height="42" src="https://skillicons.dev/icons?i=vscode" alt="VS Code"/><br/><sub><b>VS Code</b></sub></td>
+<td align="center" width="90"><img width="42" height="42" src="https://skillicons.dev/icons?i=linux" alt="Linux"/><br/><sub><b>Linux</b></sub></td>
+<td align="center" width="90"><img width="42" height="42" src="https://skillicons.dev/icons?i=git" alt="Git"/><br/><sub><b>Git</b></sub></td>
+<td align="center" width="90"><img width="42" height="42" src="https://skillicons.dev/icons?i=github" alt="GitHub"/><br/><sub><b>GitHub</b></sub></td>
+<td width="90"></td>
+</tr>
+</table>
 
 </div>
-
-| Category | Tools |
-|---|---|
-| Editor | VS Code |
-| OS | Linux |
-| Version control | Git, GitHub |
 
 <br/>
 
