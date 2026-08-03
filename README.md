@@ -27,9 +27,6 @@ I'm a software engineer currently learning and building things as a **full stack
 
 <br/>
 
-## Tech stack
-
-
 ## Tech stack & tools
 
 <div align="center">
