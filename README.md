@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./lgihtheader.svg" alt="Stephen Michael banner" width="100%"/>
+<img src="./lightheader.svg" alt="Stephen Michael banner" width="100%"/>
 
 <img src="./divider.svg" alt="" width="100%"/>
 
