@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./header.png" alt="Stephen Michael banner" width="100%"/>
+<img src="./lgihtheader.svg" alt="Stephen Michael banner" width="100%"/>
 
 <img src="./divider.svg" alt="" width="100%"/>
 
@@ -17,13 +17,13 @@
 
 ## About me
 
-I'm a software engineer currently learning and building things as a **full stack software engineer**, while also growing my skills in **data science and data engineering**. I enjoy turning ideas into working products end to end — from the UI down to the database — and I'm equally excited about the world of data: cleaning it, modeling it, and pulling insight out of it.
+I'm a software engineer currently learning and building things as a **full stack software engineer**, while also growing my skills in **data science and data engineering**. I enjoy turning ideas into working products end to end — from the UI down to the database and I'm equally excited about the world of data: cleaning it, modeling it, and pulling insight out of it.
 
 - 🔭 Currently building full stack projects with **React**, **Node.js**, and **Spring Boot**
 - 📊 Currently learning data engineering, data analysis, and data science fundamentals
 - 🌱 Sharpening my SQL, Java, and system design skills
 - 💬 Ask me about JavaScript, React, Java/Spring Boot, or SQL
-- ⚡ Fun fact: I like exploring both sides of the stack — building the product **and** understanding the data behind it
+- ⚡ Fun fact: I like exploring both sides of the stack  building the product **and** understanding the data behind it
 
 <br/>
 
@@ -69,5 +69,5 @@ I'm a software engineer currently learning and building things as a **full stack
 <br/>
 
 <div align="center">
-<sub>Thanks for stopping by — feel free to connect on any of the platforms above 👋</sub>
+<sub>Thanks for stopping by feel free to connect on any of the platforms above 👋</sub>
 </div>
