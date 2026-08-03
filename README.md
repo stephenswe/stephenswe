@@ -20,7 +20,7 @@
 I'm a software engineer currently learning and building things as a **full stack software engineer**, while also growing my skills in **data science and data engineering**. I enjoy turning ideas into working products end to end  from the UI down to the database and I'm equally excited about the world of data: cleaning it, modeling it, and pulling insight out of it.
 
 - 🔭 Currently building full stack projects with **React**, **Node.js**, and **Spring Boot**
-- 📊 Currently learning data engineering, data analysis, and data science fundamentals
+- 📊 Currently learning data engineering, data analysis, and data science
 - 🌱 Sharpening my SQL, Java, and system design skills
 - 💬 Ask me about JavaScript, React, Java/Spring Boot, or SQL
 - ⚡ Fun fact: I like exploring both sides of the stack  building the product **and** understanding the data behind it
