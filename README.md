@@ -37,7 +37,7 @@ I'm a software engineer currently learning and building things as a **full stack
 
 | Layer | Tools |
 |---|---|
-| Frontend | HTML, CSS, JavaScript, React |
+| Frontend | HTML, CSS, JavaScript, Tailwind, React |
 | Backend | Node.js, Java, Spring Boot |
 | Data | SQL |
 
