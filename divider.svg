@@ -1,0 +1,22 @@
+<svg width="900" height="24" viewBox="0 0 900 24" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="glowGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#DC2626" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#EF4444" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#DC2626" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="softBlur" x="-50%" y="-200%" width="200%" height="500%">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
+  </defs>
+
+  <line x1="0" y1="12" x2="900" y2="12" stroke="#27272A" stroke-width="1"/>
+
+  <rect x="-220" y="7" width="220" height="10" rx="5" fill="url(#glowGrad)" filter="url(#softBlur)">
+    <animate attributeName="x" from="-220" to="900" dur="3.2s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="-220" y="10" width="220" height="4" rx="2" fill="url(#glowGrad)">
+    <animate attributeName="x" from="-220" to="900" dur="3.2s" repeatCount="indefinite"/>
+  </rect>
+</svg>
