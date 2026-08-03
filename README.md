@@ -4,7 +4,7 @@
 
 <img src="./divider.svg" alt="" width="100%"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/stephenswe)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DC2626?style=for-the-badge&logo=linkedin&logoColor=F8FAFC)](https://linkedin.com/in/stephenswe)
 [![Twitter](https://img.shields.io/badge/Twitter-DC2626?style=for-the-badge&logo=x&logoColor=F8FAFC)](https://twitter.com/your-twitter)
 [![Instagram](https://img.shields.io/badge/Instagram-DC2626?style=for-the-badge&logo=instagram&logoColor=F8FAFC)](https://instagram.com/your-instagram)
 [![Gmail](https://img.shields.io/badge/Gmail-DC2626?style=for-the-badge&logo=gmail&logoColor=F8FAFC)](mailto:your-email@gmail.com)
