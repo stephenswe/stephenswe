@@ -61,10 +61,11 @@ I'm a software engineer currently learning and building things as a **full stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=stephenswe&show_icons=true&theme=dark&bg_color=141414&title_color=DC2626&icon_color=DC2626&text_color=F8FAFC&border_color=27272A" alt="GitHub stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=stephenswe&theme=dark&background=141414&stroke=27272A&ring=DC2626&fire=DC2626&currStreakLabel=DC2626&sideNums=F8FAFC&currStreakNum=F8FAFC&sideLabels=A1A1AA" alt="GitHub streak" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=stephenswe&show_icons=true&theme=dark&bg_color=141414&title_color=DC2626&icon_color=DC2626&text_color=F8FAFC&border_color=27272A&cache_seconds=1800" alt="GitHub stats" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=stephenswe&theme=dark&background=141414&stroke=27272A&ring=DC2626&fire=DC2626&currStreakLabel=DC2626&sideNums=F8FAFC&currStreakNum=F8FAFC&sideLabels=A1A1AA" alt="GitHub streak" height="165"/>
 
 </div>
+
 
 <br/>
 
