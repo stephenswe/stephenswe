@@ -22,7 +22,7 @@ I'm a software engineer currently learning and building things as a **full stack
 - 🔭 Currently building full stack projects with **React**, **Node.js**, and **Spring Boot**
 - 📊 Currently learning data engineering, data analysis, and data science
 - 🌱 Sharpening my SQL, Java, and system design skills
-- 💬 **Get in Touch at:** stephenmichaelswe@gmail.com
+- 💬 **Get in Touch at:** <a href="mailto:stephenmichaelswe@gmail.com">stephenmichaelswe@gmail.com</a>
 - ⚡ Fun fact: I like exploring both sides of the stack  building the product **and** understanding the data behind it
 
 <br/>
